@@ -1,0 +1,19 @@
+Durante a faculdade, meu primeiro "trabalho" foi a **monitoria de fundamentos de programação**. 
+Sempre tive dificuldade em explicar conceitos para outras pessoas e acho que a monitoria me ajudou muito a melhorar esse meu lado. 
+Lá fiz grandes amizades que duram até hoje e sou muito grato aos professores Bogdan e Leyza por terem me escolhido para ser monitor.
+
+Sai da monitoria após um semestre para iniciar uma **iniciação científica** no **[CERNN](https://cernn.ct.utfpr.edu.br)**.
+Logo que recebi a oferta, não pensei duas vezes antes de aceitar.
+A parceria com grandes empresas como **Petrobras, Vale e Exxon** aliada com a excelência e dedicação dos pesquisadores, fazem com que o CERNN cause **inveja a qualquer centro de pesquisas do mundo**.
+
+O CERNN é um centro de pesquisa sobre fluidos, então a maioria dos pesquisadores são de áreas como engenharia mecânica, engenharia química, física, etc.
+Eu fui a primeira pessoa da área da computação a entrar no centro de pesquisas, o que me obrigou a ser mais autodidata e também a aprender trabalhar com pessoas de outras áreas.
+Lá foi onde tive meu primeiro contato com **HPC** e **computação paralela** e sou apaixonado desde então.
+
+Uma das áreas que eles trabalhavam é o **CFD** (computação fluidodinâmica), que é a simulação do escoamento de fluidos computacionalmente (e.g. água descendo um tubo).
+E um dos maiores problemas dentro do **CFD** é o tempo de simulação. 
+É comum uma simulação tomar **dias, semanas**, e vale notar que são feitas várias simulações para cada caso.
+Com isso é fácil perceber o interesse em **diminuir o tempo de simulação** e é justamente nessa parte que eu entro.
+
+O meu trabalho no CERNN foi desenvolver um código para simulação de escoamentos com o **LBM** (método de lattice Boltzmann).
+Esse método tem como grande vantagem em relação aos outros ser altamente paralelizável, o que permite que seja rodado em **GPUs** com um grande ganho de desempenho.
