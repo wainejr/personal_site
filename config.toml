@@ -21,12 +21,12 @@ disqusShortname = "yourdiscussshortname"
     author = "Waine Junior"
     description = "Waine Junior's personal site"
     keywords = "blog,developer,personal"
-    info = "Python, fantasy books and research"
-    avatarurl = "images/avatar.jpg"
+    info = "Python, podcasts and research"
+    avatarurl = "images/my-avatar.jpg"
     # gravatar = "waine2000@gmail.com"
-    footercontent = "With Python and Stack Overflow, nothing can stop you."
+    footercontent = "With Python, Stack Overflow and a good podcast nothing can stop you."
 
-    dateformat = "January 2, 2006"
+    dateformat = "2, January, 2006"
 
     hideFooter = false
     hideCredits = false
@@ -133,7 +133,7 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
+            weight = 4
             url = "contact/"
 
 
@@ -141,10 +141,10 @@ disqusShortname = "yourdiscussshortname"
         languagename = "Português"
 
         [languages.pt-br.params]
-            info = "Python, livros de fantasia e pesquisa"
+            info = "Python, podcasts e pesquisa"
             description = "Site pessoal do Waine Junior"
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Com Python e o Stack Overflow, nada pode te parar."
+            footercontent = "Com Python, Stack Overflow e um bom podcast nada pode te parar."
 
         [languages.pt-br.menu]
 
@@ -165,6 +165,6 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.pt-br.menu.main]]
             name = "Contato"
-            weight = 5
+            weight = 4
             url = "contact/"
 
