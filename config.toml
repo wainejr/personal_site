@@ -106,7 +106,7 @@ disqusShortname = "yourdiscussshortname"
     name = "E-mail"
     icon = "fa fa-envelope"
     weight = 6
-    url = "mailto:waine2000@gmail.com"
+    url = "mailto:waine.oliveira.jr@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
 
