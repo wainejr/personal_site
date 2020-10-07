@@ -3,7 +3,7 @@ title = "Contact"
 slug = "contact"
 +++
 
-E-mail: waine2000@gmail.com
+E-mail: waine.oliveira.jr@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/waine-junior/)
 
