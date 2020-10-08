@@ -32,4 +32,4 @@ Também trabalho há um ano na empresa [Vision Viasoft](https://viasoft.com.br/v
 
 ## Projetos
 
-Você pode checar meus projetos [aqui](/projects).
+Você pode checar meus projetos [aqui](/pt-br/projects).

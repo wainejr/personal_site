@@ -29,3 +29,7 @@ During this time, it was developed the open source software [LBM Viscoplastic](h
 Academically, the software produced an [article](https://www.researchgate.net/publication/341522565_PERFORMANCE_ANALYSIS_OF_THE_LATTICE_BOLTZMANN_METHOD_IMPLEMENTATION_ON_GPU) directly, published in [CILAMCE](https://www.cilamce2019.com.br), and many others indirectly that the authors used the program for simulation.
 
 I also have been working for a year at [Vision Viasoft](https://viasoft.com.br/vision/), with Web development and algorithms for image processing with embedded systems.
+
+## Projects
+
+You can check my projects [here](/en/projects).
