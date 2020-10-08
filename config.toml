@@ -1,5 +1,5 @@
 baseurl = "http://www.wainejr.com"
-title = "Waine Jr. (in development)"
+title = "Waine Jr."
 
 theme = "hugo-coder"
 
