@@ -31,9 +31,8 @@ O programa foi desenvolvido no [CERNN](https://cernn.ct.utfpr.edu.br) em um proj
 
 ## NASSU LBM 
 
-* **Descrição**: Projeto para o desenvolvimento de um software comercial com o mesmo intuito do *Viscoplastic LBM*. 
-Inspirado no [Sailfish](https://www.sciencedirect.com/science/article/pii/S0010465514001520), é desenvolvido em Python combinando as bibliotecas [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/), [PyOpenCL](https://documen.tician.de/pyopencl/) e [SymPy](https://www.sympy.org/en/index.html).
-Também fornecerá uma interface gráfica para configuração e visualização dos resultados das simulações.
+* **Descrição**: Projeto para o desenvolvimento de um software comercial com o mesmo objetivo do *Viscoplastic LBM*, porém fornecendo mais opções e também uma interface gráfica para configuração e visualização da simulação.
+Inspirado no [Sailfish](https://www.sciencedirect.com/science/article/pii/S0010465514001520), é desenvolvido em Python combinando a biblioteca [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/) para renderização de templates, o [PyOpenCL](https://documen.tician.de/pyopencl/) para acesso aos recursos da GPU e o [SymPy](https://www.sympy.org/en/index.html) para manipulação de símbolos matemáticos.
 
 * **Duração**: 2020 - atualmente
 
@@ -42,7 +41,7 @@ Também fornecerá uma interface gráfica para configuração e visualização d
 ## Manutentor de trilhos NASSU
 
 * **Descrição**: Protótipo de veículo para a manutenção dos parafusos de um trilho de trem, apertando-os quando estiverem soltos. 
-Utiliza sensores e motores em combinação com uma Raspberry Pi para o controle do veículo, além de um algoritmo para processamento de imagens e detecção dos parafusos. 
+Utiliza sensores e motores em combinação com uma Raspberry Pi para o controle do veículo, junto de um algoritmo para detecção dos parafusos utilizando processamento de imagens. 
 Foi produzido durante a matéria de Oficinas de Integração 2 de Eng. da Computação da UTFPR-CT.
 
 * **Duração**: 2019
