@@ -48,3 +48,14 @@ Foi produzido durante a matéria de Oficinas de Integração 2 de Eng. da Comput
 
 * **Links**:
   * [Site do projeto](https://manutentordetrilhos.wordpress.com)
+
+------------
+
+##  Este site
+
+* **Descrição**: Eu desenvolvi esse site para compartilhar um pouco mais sobre mim e sobre meu trabalho. O site utiliza [Hugo](https://gohugo.io) e o tema [Hugo-Coder](https://github.com/luizdepra/hugo-coder) feito pelo [Luiz de Prá](https://github.com/luizdepra).
+
+* **Duração**: 2020
+
+* **Links**:
+  * [GitHub](https://github.com/jrwaine/personal_site)
