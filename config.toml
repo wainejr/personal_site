@@ -102,7 +102,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Medium"
     icon = "fa fa-medium"
     weight = 5
-    url = "https://medium.com/@jr_waine"
+    url = "https://medium.com/@jrwaine"
 [[params.social]]
     name = "E-mail"
     icon = "fa fa-envelope"
