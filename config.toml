@@ -1,5 +1,5 @@
 baseurl = "http://www.wainejr.com"
-title = "Waine Jr."
+title = "Waine Oliveira Jr."
 
 theme = "hugo-coder"
 
@@ -19,8 +19,8 @@ disqusShortname = "yourdiscussshortname"
   useResourceCacheWhen = "fallback"
 
 [params]
-    author = "Waine Junior"
-    description = "Waine Junior's personal site"
+    author = "Waine Oliveira Jr."
+    description = "Waine Oliveira Jr's personal site"
     keywords = "blog,developer,personal"
     info = "Python, podcasts and research"
     avatarurl = "images/my-avatar.jpg"
