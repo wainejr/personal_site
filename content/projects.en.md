@@ -3,19 +3,6 @@ title = "Projetos"
 slug = "projects"
 +++
 
-## Twitch Plays Chess
-
-* **Description**: Bot written in Python to play chess at [Lichess](https://lichess.org) using the [Twitch's](https://www.twitch.tv) chat, inspired by [Twitch Plays Pokemon](https://www.twitch.tv/twitchplayspokemon).
-Currently I am configuring a cloud server to run the bot and transmit the matches to Twitch automatically.
-
-* **Duration**: 2020 - currently
-
-* **Links**: 
-  * [GitHub](https://github.com/jrwaine/Twitch-Plays-Chess)
-  * [Twitch Channel](https://www.twitch.tv/communityplayschess)
-
-------------
-
 ## Viscoplastic LBM
 
 * **Description**: Open source project in C/C++ and [CUDA](https://developer.nvidia.com/cuda-zone) to simulate with GPUs hydrodynamic phenomena, using LBM (lattice Boltzmann method).
@@ -35,6 +22,20 @@ The software was developed at [CERNN](https://cernn.ct.utfpr.edu.br) in a resear
 Inspired by [Sailfish](https://www.sciencedirect.com/science/article/pii/S0010465514001520), it is developed in Python combining [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/) for rendering templates, [PyOpenCL](https://documen.tician.de/pyopencl/) to access GPU resources and [SymPy](https://www.sympy.org/en/index.html) for symbolical mathematics.
 
 * **Duration**: 2020 - currently
+
+------------
+
+## Twitch Plays Chess
+
+* **Description**: Bot written in Python to play chess at [Lichess](https://lichess.org) using the [Twitch's](https://www.twitch.tv) chat, inspired by [Twitch Plays Pokemon](https://www.twitch.tv/twitchplayspokemon).
+The program and the twitch channel is currently innactive.
+
+* **Duration**: 2020
+
+* **Links**: 
+  * [GitHub](https://github.com/jrwaine/Twitch-Plays-Chess)
+  * [Twitch Channel](https://www.twitch.tv/communityplayschess)
+
 
 ------------
 

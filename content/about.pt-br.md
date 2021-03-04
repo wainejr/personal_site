@@ -24,11 +24,11 @@ Além disso, tenho conhecimento em eletrônica e circuitos digitais.
 
 ## Trabalho
 
-Faço iniciação científica há dois anos no **[CERNN](https://cernn.ct.utfpr.edu.br)**, trabalhando com **HPC** e **computação paralela em GPU** aplicadas em **CFD** (fluidodinâmica computacional) utilizando **LBM** (método de lattice Boltzmann). 
+Faço pesquisa científica desde 2018 no **[CERNN](https://cernn.ct.utfpr.edu.br)**, trabalhando com **HPC** e **computação paralela em GPU** aplicadas em **CFD** (fluidodinâmica computacional) utilizando **LBM** (método de lattice Boltzmann). 
 Durante esse tempo, foi desenvolvido o programa [LBM Viscoplastic](https://github.com/jrwaine/LBM-CERNN), código aberto com registro no [INPI](https://www.gov.br/inpi/pt-br). 
 Academicamente o software produziu diretamente um [artigo](https://www.researchgate.net/publication/341522565_PERFORMANCE_ANALYSIS_OF_THE_LATTICE_BOLTZMANN_METHOD_IMPLEMENTATION_ON_GPU) no congresso internacional [CILAMCE](https://www.cilamce2019.com.br) e indiretamente vários outros em que os autores utilizaram-o para simulação.
 
-Também trabalho há um ano na empresa [Vision Viasoft](https://viasoft.com.br/vision/), com desenvolvimento de algoritmos de processamento de imagens em sistemas embarcados e desenvolvimento Web.
+Também trabalhei por um ano na empresa [Vision Viasoft](https://viasoft.com.br/vision/), com desenvolvimento de algoritmos de processamento de imagens em sistemas embarcados e desenvolvimento Web.
 
 ## Projetos
 

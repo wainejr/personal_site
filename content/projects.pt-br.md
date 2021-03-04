@@ -3,19 +3,6 @@ title = "Projetos"
 slug = "projects"
 +++
 
-## Twitch Plays Chess
-
-* **Descrição**: Bot em Python para jogar xadrez no [Lichess](https://lichess.org) pelo chat da [Twitch](https://www.twitch.tv), inspirado no [Twitch Plays Pokemon](https://www.twitch.tv/twitchplayspokemon). 
-Atualmente estou configurando uma máquina na nuvem para poder rodar o bot e fazer a transmissão das partidas do bot na Twitch automaticamente.
-
-* **Duração**: 2020 - atualmente
-
-* **Links**: 
-  * [GitHub](https://github.com/jrwaine/Twitch-Plays-Chess)
-  * [Canal Twitch](https://www.twitch.tv/communityplayschess)
-
-------------
-
 ## Viscoplastic LBM
 
 * **Descrição**: Código aberto em C/C++ e [CUDA](https://developer.nvidia.com/cuda-zone) para a simulação em GPUs de escoamentos de fluidos com LBM (método de lattice Boltzmann).
@@ -35,6 +22,19 @@ O programa foi desenvolvido no [CERNN](https://cernn.ct.utfpr.edu.br) em um proj
 Inspirado no [Sailfish](https://www.sciencedirect.com/science/article/pii/S0010465514001520), é desenvolvido em Python combinando a biblioteca [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/) para renderização de templates, o [PyOpenCL](https://documen.tician.de/pyopencl/) para acesso aos recursos da GPU e o [SymPy](https://www.sympy.org/en/index.html) para manipulação de símbolos matemáticos.
 
 * **Duração**: 2020 - atualmente
+
+------------
+
+## Twitch Plays Chess
+
+* **Descrição**: Bot em Python para jogar xadrez no [Lichess](https://lichess.org) pelo chat da [Twitch](https://www.twitch.tv), inspirado no [Twitch Plays Pokemon](https://www.twitch.tv/twitchplayspokemon). 
+O código e o bot na Twitch estão atualmente inativos.
+
+* **Duração**: 2020
+
+* **Links**: 
+  * [GitHub](https://github.com/jrwaine/Twitch-Plays-Chess)
+  * [Canal Twitch](https://www.twitch.tv/communityplayschess)
 
 ------------
 
