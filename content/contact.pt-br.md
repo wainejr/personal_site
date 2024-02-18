@@ -3,10 +3,9 @@ title = "Contato"
 slug = "contact"
 +++
 
-Você pode me contatar pelos emails waine.oliveira.jr@gmail.com ou waine@alunos.utfpr.edu.br.
+Você pode me contatar pelo email [waine.oliveira.jr@gmail](mailto:waine.oliveira.jr@gmail).
 
-Também pode me encontrar no
-[LinkedIn](https://www.linkedin.com/in/waine-junior/),
-[GitHub](https://github.com/jrwaine/),
-[Medium](https://medium.com/@jr_waine) e no
-[Research Gate](https://www.researchgate.net/profile/Waine_Junior).
+Também pode me achar nas redes sociais:
+
+- [@waine_jr no Instagram](https://www.instagram.com/waine_jr/)
+- [@waine_jr no TikTok](https://www.tiktok.com/@waine_jr)

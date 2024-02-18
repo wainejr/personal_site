@@ -1,35 +1,41 @@
 +++
-title = "Sobre mim"
-slug = "about"
+title = "Sobre Mim"
+slug = "sobre"
 +++
 
-Meu nome é **Waine Junior**, tenho 20 anos, moro em **Curitiba** e atualmente curso **Engenharia da Computação** na **UTFPR de Curitiba**.
+**Sou o Waine, também conhecido como *dev do desempenho*.**
+Sou o **cofundador da [AeroSim](https://aerosim.io/)**, um túnel de vento digital para estruturas, e **também produzo conteúdo para redes sociais** (pode me achar no [Instagram](https://www.instagram.com/waine_jr/) e no [TikTok](https://www.tiktok.com/@waine_jr)), focando em assuntos relacionados a desempenho e baixo nível, além do que me especializei (fluidodinâmica computacional (CFD) usando o método de lattice Boltzmann (LBM)).
 
-Atualmente meus maiores interesses na área de computação são **HPC (Computação de alto desempenho)** e **arquiteturas de computação paralelas**. Também tenho experiência em outras áreas como **PDI** (processamento digital de imagens), **banco de dados**, **desenvolvimento Web**, entre outras.
+Nasci e cresci em Siqueira Campos, no interior do Paraná.
+Me mudei pra Curitiba em 2017, quando entrei no curso de **engenharia de computação na UTFPR-CT**, e foi lá que tive meu primeiro contato com programação.
+No ano 2018 entrei no [CERNN](https://cernn.com.br/) e comecei a trabalhar com pesquisa relacionada ao LBM, e desde então me especializo nesse tema de pesquisa (podem encontrar minhas publicações no [Research Gate](https://www.researchgate.net/profile/Waine-Junior)).
 
-Além disso, gosto de andar de bicicleta (quando não estou contundido), ler livros de fantasia (George R.R. Martin termina logo As Crônicas de Gelo e Fogo por favor) e ouvir muitos podcasts e música (me segue no [LastFM](https://www.last.fm/user/jr_waine)).
+Eu e meu sócio **fundamos a AeroSim em 2021**, com o objetivo de trazer todo conhecimento e experiência com LBM que obtivameos na academia para a indústria.
+Mas se antes usávamos o método para estudos na indústria e óleo e gás, agora iríamos focar em aerodinâmica.
+Após vários meses e muitas conversas decidimos **focar na indústria de civil**, que tinha uma carência muito grande de soluções computacionais para estudo do vento com precisão de engenharia, além de ser um problema tecnicamente "mais fácil" (ainda assim, muito difícil) do que de outras indústrias, como aeroespacial.
 
-## Habilidades
+Desde então fazemos o desenvolvimento do nosso *solver* (programa que faz a simulação do vento) continuamente, alcançando e ultrapassando a fronteira do conhecimento na área.
+Também publicamos nossos resultados em artigos, *whitepapers*, participamos de congressos, temos parcerias nacionais e internacionais com pesquisadores na área.
+Tudo isso com um time enxuto e que faz o que nenhum outro faz no mundo.
 
-Quanto à programação, as principais linguagens e APIs que uso são:
+## Áreas de interesse
 
-* **C/C++**
-* **Python**
-* **OpenCL** e **CUDA**
+Com relação à parte técnica, algumas das áreas que atuo são
 
-Também já trabalhei com linguagens e frameworks como **JavaScript**, **TypeScript**, **React** e **PHP**.
+* Computação de alto desempenho (HPC)
+* Programação em GPU
+* Método de lattice Boltzmann (LBM)
+* Fluidodinâmica computacional (CFD)
+* Metaprogramação
+* Documentação
 
-Em relação à tecnologias, tenho conhecimento em **SQL**, **Git**, **Linux**, **Raspberry Pi**, **Arduino**, dentre outras.
-Além disso, tenho conhecimento em eletrônica e circuitos digitais.
+E algumas das tecnologias que uso no dia-a-dia para isso
 
-## Trabalho
+* Python
+* OpenCL e CUDA
+* C/C++
+* Rust
+* Git
+* Linux
 
-Faço pesquisa científica desde 2018 no **[CERNN](https://cernn.ct.utfpr.edu.br)**, trabalhando com **HPC** e **computação paralela em GPU** aplicadas em **CFD** (fluidodinâmica computacional) utilizando **LBM** (método de lattice Boltzmann). 
-Durante esse tempo, foi desenvolvido o programa [LBM Viscoplastic](https://github.com/jrwaine/LBM-CERNN), código aberto com registro no [INPI](https://www.gov.br/inpi/pt-br). 
-Academicamente o software produziu diretamente um [artigo](https://www.researchgate.net/publication/341522565_PERFORMANCE_ANALYSIS_OF_THE_LATTICE_BOLTZMANN_METHOD_IMPLEMENTATION_ON_GPU) no congresso internacional [CILAMCE](https://www.cilamce2019.com.br) e indiretamente vários outros em que os autores utilizaram-o para simulação.
-
-Também trabalhei por um ano na empresa [Vision Viasoft](https://viasoft.com.br/vision/), com desenvolvimento de algoritmos de processamento de imagens em sistemas embarcados e desenvolvimento Web.
-
-## Projetos
-
-Você pode checar meus projetos [aqui](/pt-br/projects).
+Apesar desses serem os principais tópicos da minha atuação, também já trabalhei com processamento digital de imagens (PDI), já fiz projetos em embarcados, faço interfaces de terminal e CLI, uso [Terraform](https://www.terraform.io/) pra gerenciamento de infra, uso [AWS](https://aws.amazon.com/), faço gerenciamento de servidores locais, e o que mais é necessário no dia a dia de uma empresa pequena.

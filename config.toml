@@ -1,5 +1,5 @@
 baseurl = "http://www.wainejr.com"
-title = "Waine Oliveira Jr."
+title = "Waine, Dev do desempenho"
 
 theme = "hugo-coder"
 
@@ -13,17 +13,15 @@ pygmentsstyle = "b3"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [build]
   useResourceCacheWhen = "fallback"
 
 [params]
     author = "Waine Oliveira Jr."
-    description = "Waine Oliveira Jr's personal site"
+    description = "Site do dev do desempenho"
     keywords = "blog,developer,personal"
-    info = "Python, podcasts and research"
-    avatarurl = "images/my-avatar.jpg"
+    info = "Dev do desempenho"
+    avatarurl = "images/my-pic.png"
     # gravatar = "waine2000@gmail.com"
     footercontent = "With Python, Stack Overflow and a good podcast nothing can stop you."
 
@@ -68,10 +66,10 @@ disqusShortname = "yourdiscussshortname"
 #     serverURL = "analytics.example.com"
 #     
 # If you want to use plausible(https://plausible.io) for analytics, add this section
-[params.plausibleAnalytics]
-    domain = "wainejr.com"
-    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-    # serverURL = "analytics.wainejr.com"
+# [params.plausibleAnalytics]
+#     domain = "wainejr.com"
+#     # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+#     # serverURL = "analytics.wainejr.com"
 
 [taxonomies]
   category = "categories"
@@ -80,82 +78,90 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
     name = "Github"
-    icon = "fa fa-github"
+    icon = "fa fa-github fa-2x"
     weight = 1
-    url = "https://github.com/jrwaine/"
+    url = "https://github.com/wainejr/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
+    name = "Instagram"
+    icon = "fa fa-instagram fa-2x"
     weight = 2
-    url = "https://gitlab.com/jr_waine/"
+    url = "https://www.instagram.com/waine_jr/"
+[[params.social]]
+    name = "TikTok"
+    icon = "fa-brands fa-tiktok fa-2x"
+    weight = 3
+    url = "https://www.tiktok.com/@waine_jr"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fa fa-linkedin"
-    weight = 3
+    icon = "fa fa-linkedin fa-2x"
+    weight = 4
     url = "https://www.linkedin.com/in/waine-junior/"
 [[params.social]]
-    name = "LastFm"
-    icon = "fa fa-lastfm"
-    weight = 4
-    url = "https://www.last.fm/user/jr_waine"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
+    name = "Research Gate"
+    icon = "fa-brands fa-researchgate fa-2x"
     weight = 5
-    url = "https://medium.com/@jrwaine"
+    url = "https://www.researchgate.net/profile/Waine-Junior"
 [[params.social]]
     name = "E-mail"
-    icon = "fa fa-envelope"
+    icon = "fa fa-envelope fa-2x"
     weight = 6
     url = "mailto:waine.oliveira.jr@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
 
 [languages]
-    [languages.en]
-        languagename = "English"
-
-        [languages.en.menu]
-
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 1
-            url = "about/"
-
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
-
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 4
-            url = "contact/"
-
-
     [languages.pt-br]
         languagename = "Português"
 
         [languages.pt-br.params]
-            info = "Python, podcasts e pesquisa"
-            description = "Site pessoal do Waine Junior"
+            info = "CTO da Aerosim & Produtor de conteúdo"
+            description = "Site do dev do desempenho"
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Com Python, Stack Overflow e um bom podcast nada pode te parar."
+            footercontent = "CTO da Aerosim & produtor de conteúdo"
 
         [languages.pt-br.menu]
 
             [[languages.pt-br.menu.main]]
             name = "Sobre"
             weight = 1
-            url = "about/"
+            url = "sobre/"
 
             [[languages.pt-br.menu.main]]
-            name = "Projetos"
+            name = "Mentorias"
+            weight = 2
+            url = "mentorias/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Livros"
             weight = 3
-            url = "projects/"
+            url = "livros/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Cursos"
+            weight = 4
+            url = "cursos/"
 
             [[languages.pt-br.menu.main]]
             name = "Contato"
-            weight = 4
-            url = "contact/"
+            weight = 5
+            url = "contato/"
 
+    # [languages.en]
+    #     languagename = "English"
+
+    #     [languages.en.menu]
+
+    #         [[languages.en.menu.main]]
+    #         name = "About"
+    #         weight = 1
+    #         url = "about/"
+
+    #         [[languages.en.menu.main]]
+    #         name = "Projects"
+    #         weight = 3
+    #         url = "projects/"
+
+    #         [[languages.en.menu.main]]
+    #         name = "Contact me"
+    #         weight = 4
+    #         url = "contact/"
