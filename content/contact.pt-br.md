@@ -7,5 +7,5 @@ Você pode me contatar pelo email [waine.oliveira.jr@gmail](mailto:waine.oliveir
 
 Também pode me achar nas redes sociais:
 
-- [@waine_jr no Instagram](https://www.instagram.com/waine_jr/)
-- [@waine_jr no TikTok](https://www.tiktok.com/@waine_jr)
+- [@waine_jr](https://www.instagram.com/waine_jr/) no Instagram
+- [@waine_jr](https://www.tiktok.com/@waine_jr) no TikTok
