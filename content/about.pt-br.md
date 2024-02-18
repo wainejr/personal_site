@@ -18,6 +18,9 @@ Desde então fazemos o desenvolvimento do nosso *solver* (programa que faz a sim
 Também publicamos nossos resultados em artigos, *whitepapers*, participamos de congressos, temos parcerias nacionais e internacionais com pesquisadores na área.
 Tudo isso com um time enxuto e que faz o que nenhum outro faz no mundo.
 
+Além de tudo isso, desde 2023 produzo conteúdo nas redes sociais sob o codinome *dev do desempenho*.
+Podem me encontrar no [Instagram](https://www.instagram.com/waine_jr/) e no [TikTok](https://www.tiktok.com/@waine_jr) principalmente.
+
 ## Áreas de interesse
 
 Com relação à parte técnica, algumas das áreas que atuo são

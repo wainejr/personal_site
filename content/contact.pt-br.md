@@ -1,6 +1,6 @@
 +++
 title = "Contato"
-slug = "contact"
+slug = "contato"
 +++
 
 Você pode me contatar pelo email [waine.oliveira.jr@gmail](mailto:waine.oliveira.jr@gmail).

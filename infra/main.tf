@@ -14,7 +14,6 @@ terraform {
 resource "aws_s3_bucket" "waine_static_website" {
   bucket = "waine-jr-public-site-sa"
 
-
   tags = {
     name = "Website S3"
   }
@@ -82,12 +81,4 @@ resource "aws_s3_bucket_policy" "static_website_policy" {
       }
     ]
   })
-}
-
-output "website_endpoint" {
-  value = aws_s3_bucket_website_configuration.waine_static_website.website_endpoint
-}
-
-output "website_domain" {
-  value = aws_s3_bucket_website_configuration.waine_static_website.website_domain
 }

@@ -124,27 +124,27 @@ pygmentscodefencesguesssyntax = true
             [[languages.pt-br.menu.main]]
             name = "Sobre"
             weight = 1
-            url = "sobre/"
+            url = "sobre/index.html"
 
             [[languages.pt-br.menu.main]]
-            name = "Mentorias"
+            name = "Mentoria"
             weight = 2
-            url = "mentorias/"
+            url = "mentoria/index.html"
 
             [[languages.pt-br.menu.main]]
             name = "Livros"
             weight = 3
-            url = "livros/"
+            url = "livros/index.html"
 
             [[languages.pt-br.menu.main]]
             name = "Cursos"
             weight = 4
-            url = "cursos/"
+            url = "cursos/index.html"
 
             [[languages.pt-br.menu.main]]
             name = "Contato"
             weight = 5
-            url = "contato/"
+            url = "contato/index.html"
 
     # [languages.en]
     #     languagename = "English"
