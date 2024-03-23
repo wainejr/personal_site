@@ -18,3 +18,17 @@ git clone https://github.com/jrwaine/personal_site.git
 cd personal_site
 git submodule update --init --recursive
 ```
+
+## Commands
+
+Serve locally
+
+```bash
+hugo serve
+```
+
+Build site
+
+```bash
+hugo
+```

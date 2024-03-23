@@ -4,7 +4,7 @@ slug = "sobre"
 +++
 
 **Sou o Waine, também conhecido como *dev do desempenho*.**
-Sou o **cofundador da [AeroSim](https://aerosim.io/)**, um túnel de vento digital para estruturas, e **também produzo conteúdo para redes sociais** (pode me achar no [Instagram](https://www.instagram.com/waine_jr/) e no [TikTok](https://www.tiktok.com/@waine_jr)), focando em assuntos relacionados a desempenho e baixo nível, além do que me especializei (fluidodinâmica computacional (CFD) usando o método de lattice Boltzmann (LBM)).
+Sou o **cofundador da [AeroSim](https://aerosim.io/)**, um túnel de vento digital para estruturas, e **também produzo conteúdo para redes sociais** (pode me achar no [Instagram](https://www.instagram.com/waine_jr/), no [Youtube](https://www.youtube.com/channel/UCNdd-FYANxk0DIvGhXVnMIg) e no [TikTok](https://www.tiktok.com/@waine_jr)), focando em assuntos relacionados a desempenho e baixo nível, além do que me especializei (fluidodinâmica computacional (CFD) usando o método de lattice Boltzmann (LBM)).
 
 Nasci e cresci em Siqueira Campos, no interior do Paraná.
 Me mudei pra Curitiba em 2017, quando entrei no curso de **engenharia de computação na UTFPR-CT**, e foi lá que tive meu primeiro contato com programação.

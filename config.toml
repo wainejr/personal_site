@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
     info = "Dev do desempenho"
     avatarurl = "images/my-pic.png"
     # gravatar = "waine2000@gmail.com"
-    footercontent = "With Python, Stack Overflow and a good podcast nothing can stop you."
+    footercontent = "CTO da Aerosim & Criador de conteúdo."
 
     dateformat = "2, January, 2006"
 
@@ -92,19 +92,24 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://www.tiktok.com/@waine_jr"
 [[params.social]]
+    name = "YouTube"
+    icon = "fa-brands fa-youtube fa-2x"
+    weight = 4
+    url = "https://www.youtube.com/channel/UCNdd-FYANxk0DIvGhXVnMIg"
+[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin fa-2x"
-    weight = 4
+    weight = 5
     url = "https://www.linkedin.com/in/waine-junior/"
 [[params.social]]
     name = "Research Gate"
     icon = "fa-brands fa-researchgate fa-2x"
-    weight = 5
+    weight = 6
     url = "https://www.researchgate.net/profile/Waine-Junior"
 [[params.social]]
     name = "E-mail"
     icon = "fa fa-envelope fa-2x"
-    weight = 6
+    weight = 7
     url = "mailto:waine.oliveira.jr@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
