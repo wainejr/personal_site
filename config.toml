@@ -119,10 +119,10 @@ pygmentscodefencesguesssyntax = true
         languagename = "Português"
 
         [languages.pt-br.params]
-            info = "CTO da Aerosim & Produtor de conteúdo"
+            info = "CTO da Aerosim & Criador de conteúdo"
             description = "Site do dev do desempenho"
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "CTO da Aerosim & produtor de conteúdo"
+            footercontent = "CTO da Aerosim & Criador de conteúdo"
 
         [languages.pt-br.menu]
 
