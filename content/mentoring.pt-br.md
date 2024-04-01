@@ -30,4 +30,4 @@ Então todo mentorando terá meu número de celular para esse acesso e falar com
 
 ## Tenho interesse
 
-Para quem tem interesse no programa de mentoria e quer saber mais informações, me mande um email para [waine.oliveira.jr@gmail.com](mailto:waine.oliveira.jr@gmail.com) que encaminho minha agenda para marcarmos uma conversa.
+Para quem tem interesse no programa de mentoria e quer saber mais informações, me mande um email para [waine.dev@gmail.com](mailto:waine.dev@gmail.com) que encaminho minha agenda para marcarmos uma conversa.

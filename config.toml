@@ -110,7 +110,7 @@ pygmentscodefencesguesssyntax = true
     name = "E-mail"
     icon = "fa fa-envelope fa-2x"
     weight = 7
-    url = "mailto:waine.oliveira.jr@gmail.com"
+    url = "mailto:waine.dev@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
 

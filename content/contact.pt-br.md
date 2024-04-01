@@ -3,7 +3,7 @@ title = "Contato"
 slug = "contato"
 +++
 
-Você pode me contatar pelo email [waine.oliveira.jr@gmail](mailto:waine.oliveira.jr@gmail).
+Você pode me contatar pelo email [waine.dev@gmail](mailto:waine.dev@gmail).
 
 Também pode me achar nas redes sociais:
 
