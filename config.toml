@@ -102,14 +102,9 @@ pygmentscodefencesguesssyntax = true
     weight = 5
     url = "https://www.linkedin.com/in/waine-junior/"
 [[params.social]]
-    name = "Research Gate"
-    icon = "fa-brands fa-researchgate fa-2x"
-    weight = 6
-    url = "https://www.researchgate.net/profile/Waine-Junior"
-[[params.social]]
     name = "E-mail"
     icon = "fa fa-envelope fa-2x"
-    weight = 7
+    weight = 6
     url = "mailto:waine.dev@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
@@ -119,7 +114,10 @@ pygmentscodefencesguesssyntax = true
         languagename = "Português"
 
         [languages.pt-br.params]
-            info = "CTO da Aerosim & Criador de conteúdo"
+            info = [
+                "CTO da Aerosim & Criador de conteúdo", 
+                "[Guias](/guias) | [Livros](/livros) | [Cursos](/cursos) | [Mentoria](/mentoria)"
+            ]
             description = "Site do dev do desempenho"
             keywords = "blog,desenvolvedor,pessoal"
             footercontent = "CTO da Aerosim & Criador de conteúdo"
@@ -132,9 +130,9 @@ pygmentscodefencesguesssyntax = true
             url = "sobre/index.html"
 
             [[languages.pt-br.menu.main]]
-            name = "Mentoria"
+            name = "Guias"
             weight = 2
-            url = "mentoria/index.html"
+            url = "guias/index.html"
 
             [[languages.pt-br.menu.main]]
             name = "Livros"
@@ -147,8 +145,13 @@ pygmentscodefencesguesssyntax = true
             url = "cursos/index.html"
 
             [[languages.pt-br.menu.main]]
-            name = "Contato"
+            name = "Mentoria"
             weight = 5
+            url = "mentoria/index.html"
+
+            [[languages.pt-br.menu.main]]
+            name = "Contato"
+            weight = 6
             url = "contato/index.html"
 
     # [languages.en]
