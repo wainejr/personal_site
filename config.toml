@@ -116,7 +116,7 @@ pygmentscodefencesguesssyntax = true
         [languages.pt-br.params]
             info = [
                 "CTO da Aerosim & Criador de conteúdo", 
-                "[Guias](/guias) | [Livros](/livros) | [Cursos](/cursos) | [Mentoria](/mentoria)"
+                "[Guias](/guias/index.html) | [Livros](/livros/index.html) | [Cursos](/cursos/index.html) | [Mentoria](/mentoria/index.html)"
             ]
             description = "Site do dev do desempenho"
             keywords = "blog,desenvolvedor,pessoal"
