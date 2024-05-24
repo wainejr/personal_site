@@ -97,14 +97,19 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "https://www.youtube.com/channel/UCNdd-FYANxk0DIvGhXVnMIg"
 [[params.social]]
+    name = "Discord"
+    icon = "fa-brands fa-discord fa-2x"
+    weight = 5
+    url = "https://discord.gg/gBXYnHmH"
+[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin fa-2x"
-    weight = 5
+    weight = 6
     url = "https://www.linkedin.com/in/waine-junior/"
 [[params.social]]
     name = "E-mail"
     icon = "fa fa-envelope fa-2x"
-    weight = 6
+    weight = 7
     url = "mailto:waine.dev@gmail.com"
     #rel = "alternate"
     #type = "application/rss+xml"
