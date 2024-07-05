@@ -12,21 +12,20 @@ Para isso, alguns objetivos específicos são:
 
 - Planos e guias para estudos ou especialização
 - Tirar dúvidas técnicas
-- Passar minha visão e aprendizados na área de negócios, pra quem tem interesse em começar uma startup
-- Estabelecer nortes com relação ao balanço entre vida pessoal e trabalho
 - Passar meu ponto de vista e filosofia sobre a área de computação, tanto para parte técnica, quanto na de atuação
 
-O atendimento é personalizado conforme a necessidade de cada mentorando, com documentos e planos que melhor se encaixem para cada um.
+O atendimento é personalizado conforme a necessidade de cada mentorando.
 
 A longo prazo, pretendo usar as dúvidas e dores que vocês têm e me apresentam para **estruturar cursos e livros** para tornar esse conhecimento acessível a um maior número de pessoas.
 Então se por algum motivo não conseguir entrar no programa de mentoria, fique tranquilo que boa parte dele será entregue em outros formatos de conteúdo também.
 
 ## Formato
 
-O programa consiste em **encontros individuais** de **45 minutos**, com o intervalo entre eles flexível, mas sugiro **quinzenalmente** pois é um bom espaço para o trabalho das duas partes e uma evolução entre os encontros.
+O programa consiste em **encontros individuais** de **45 minutos**, que podem ser avulsos ou em pacote, com intervalo quinzenal (um bom espaço para o trabalho e evolução entre os encontros).
 
-**Quero que cada mentorando tenha contato próximo comigo** e possa me contatar quando quiser para dúvidas pontuais ou que queiram discutir fora dos encontros.
-Então todo mentorando terá meu número de celular para esse acesso e falar comigo no dia a dia.
+**Encontros avulsos**: R$180,00
+
+**Pacote de encontros**: R$120,00 (mínimo de 4 encontros)
 
 ## Tenho interesse
 

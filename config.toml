@@ -82,25 +82,25 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/wainejr/"
 [[params.social]]
+    name = "YouTube"
+    icon = "fa-brands fa-youtube fa-2x"
+    weight = 2
+    url = "https://www.youtube.com/@waine_jr"
+[[params.social]]
     name = "Instagram"
     icon = "fa fa-instagram fa-2x"
-    weight = 2
+    weight = 3
     url = "https://www.instagram.com/waine_jr/"
 [[params.social]]
     name = "TikTok"
     icon = "fa-brands fa-tiktok fa-2x"
-    weight = 3
-    url = "https://www.tiktok.com/@waine_jr"
-[[params.social]]
-    name = "YouTube"
-    icon = "fa-brands fa-youtube fa-2x"
     weight = 4
-    url = "https://www.youtube.com/channel/UCNdd-FYANxk0DIvGhXVnMIg"
+    url = "https://www.tiktok.com/@waine_jr"
 [[params.social]]
     name = "Discord"
     icon = "fa-brands fa-discord fa-2x"
     weight = 5
-    url = "https://discord.gg/gBXYnHmH"
+    url = "https://discord.gg/NNuzYsNPjV"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin fa-2x"
@@ -121,7 +121,7 @@ pygmentscodefencesguesssyntax = true
         [languages.pt-br.params]
             info = [
                 "CTO da Aerosim & Criador de conteúdo", 
-                "[Guias](/guias/index.html) | [Livros](/livros/index.html) | [Cursos](/cursos/index.html) | [Mentoria](/mentoria/index.html)"
+                "[Cursos](/cursos/index.html) | [Livros](/livros/index.html) | [Guias](/guias/index.html) | [Mentoria](/mentoria/index.html)"
             ]
             description = "Site do dev do desempenho"
             keywords = "blog,desenvolvedor,pessoal"
