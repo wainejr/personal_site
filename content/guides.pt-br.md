@@ -8,4 +8,4 @@ Neles irá e encontrar não só recomendação de conteúdos, mas também proble
 
 - [Guia para Algoritmos e Estrutura de Dados](https://hotmart.com/pt-br/marketplace/produtos/guia-de-algoritmos-e-estrutura-de-dados/S92566141B) (EM REFORMULAÇÃO)
 
-Caso queira sugerir tema de guia que não esteja aqui, fique a vontade pra conversar comigo por email ([waine.dev@gmail](mailto:waine.dev@gmail)) ou [Instagram](https://www.instagram.com/waine_jr/).
+Caso queira sugerir tema de guia que não esteja aqui, fique a vontade pra conversar comigo por email ([waine.dev@gmail](mailto:waine.dev@gmail)), pelo [Instagram](https://www.instagram.com/waine_jr/) ou na [comunidade do Discord](https://discord.gg/NNuzYsNPjV).

@@ -21,7 +21,7 @@ Então se por algum motivo não conseguir entrar no programa de mentoria, fique 
 
 ## Formato
 
-O programa consiste em **encontros individuais** de **45 minutos**, que podem ser avulsos ou em pacote, com intervalo quinzenal (um bom espaço para o trabalho e evolução entre os encontros).
+O programa consiste em **encontros individuais** de **45 minutos**, que podem ser avulsos ou em pacote com intervalo quinzenal (um bom espaço para o trabalho e evolução entre os encontros).
 
 **Encontros avulsos**: R$180,00
 
