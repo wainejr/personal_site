@@ -1,4 +1,4 @@
-baseurl = "http://www.wainejr.com"
+baseurl = "https://www.wainejr.com"
 title = "Waine, Dev do desempenho"
 
 theme = "hugo-coder"
@@ -111,8 +111,6 @@ name = "E-mail"
 icon = "fa fa-envelope fa-2x"
 weight = 7
 url = "mailto:waine.dev@gmail.com"
-#rel = "alternate"
-#type = "application/rss+xml"
 
 [languages.pt-br]
 languagename = "Português"
@@ -132,9 +130,9 @@ weight = 1
 url = "sobre/index.html"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
+name = "Newsletter"
 weight = 2
-url = "blog/"
+url = "newsletter/index.html"
 
 [[languages.pt-br.menu.main]]
 name = "Guias"
@@ -155,23 +153,3 @@ url = "cursos/index.html"
 name = "Contato"
 weight = 6
 url = "contato/index.html"
-
-# [languages.en]
-#     languagename = "English"
-
-#     [languages.en.menu]
-
-#         [[languages.en.menu.main]]
-#         name = "About"
-#         weight = 1
-#         url = "about/"
-
-#         [[languages.en.menu.main]]
-#         name = "Projects"
-#         weight = 3
-#         url = "projects/"
-
-#         [[languages.en.menu.main]]
-#         name = "Contact me"
-#         weight = 4
-#         url = "contact/"
