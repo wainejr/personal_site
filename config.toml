@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 languagecode = "en"
 defaultcontentlanguage = "pt-br"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 pagination.pagerSize = 20
 
@@ -22,6 +22,7 @@ description = "Site do dev do desempenho"
 keywords = "blog,developer,personal"
 info = "Dev do desempenho"
 avatarurl = "images/my-pic.png"
+favicon = "android-chrome-192x192.png"
 # gravatar = "waine2000@gmail.com"
 footercontent = "CTO da Aerosim & Criador de conteúdo."
 
@@ -70,6 +71,11 @@ custom_js = []
 #     domain = "wainejr.com"
 #     # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
 #     # serverURL = "analytics.wainejr.com"
+
+[params.meta]
+favicon = true
+svg = true
+faviconVersion = "1"
 
 [taxonomies]
 category = "categories"

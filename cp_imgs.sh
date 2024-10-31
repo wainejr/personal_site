@@ -1,0 +1,1 @@
+cp -r ~/Documents/obsidian/newsletter/newsletter/imgs/*./static/newsletter/
