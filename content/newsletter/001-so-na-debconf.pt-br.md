@@ -71,6 +71,13 @@ O @kov e o @caio mandaram lá a experiência e configuração usando IA localmen
 
 Quem quiser saber como configurar, só dar um alô pra eles no Discord e pedir ajuda pra fazer o setup.
 
+## Notícias
+
+- [Python 3.13 saiu, BiteCode com as novidades](https://www.bitecode.dev/p/whats-up-python-313-is-out-t-strings)
+- [Linux remove contribuidores russos](https://www.youtube.com/watch?v=L5Ec5jrpLVk) por causa de sanção dos EUA (e Torvalds se reafirma como um otário)
+- [Estado do mercado de software em 2024](https://newsletter.pragmaticengineer.com/p/state-of-eng-market-2024) pelo Pragmatic Engineer. Destaque pra contratações na Oracle.
+- [Tyler soltou CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH), álbum novo, e tá muito bom
+
 ## [No canal](https://www.youtube.com/@waine_jr)
 
 - [zGPU volta com força](https://youtu.be/K1o8YjPY7Dk), fazendo a API da API da API da API do OpenCL pra Zig e apanhando de todo lado, começando o LBM em GPU
@@ -81,12 +88,6 @@ Quem quiser saber como configurar, só dar um alô pra eles no Discord e pedir a
 
 
 {{< figure src="/images/newsletter/001/gravação em linux.png" link="https://youtu.be/cwaNMdJtXbk" >}}
-
-## Notícias
-
-- [Python 3.13 saiu, BiteCode com as novidades](https://www.bitecode.dev/p/whats-up-python-313-is-out-t-strings)
-- [Linux remove contribuidores russos](https://www.youtube.com/watch?v=L5Ec5jrpLVk) por causa de sanção dos EUA (e Torvalds se reafirma como um otário)
-- [Estado do mercado de software em 2024](https://newsletter.pragmaticengineer.com/p/state-of-eng-market-2024) pelo Pragmatic Engineer. Destaque pra contratações na Oracle.
 
 ## Redes
 
