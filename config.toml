@@ -9,6 +9,8 @@ defaultContentLanguageInSubdir = false
 
 pagination.pagerSize = 20
 
+uglyURLs = true
+
 pygmentsstyle = "b3"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -124,7 +126,7 @@ languagename = "Português"
 [languages.pt-br.params]
 info = [
     "CTO da Aerosim & Criador de conteúdo",
-    "[Cursos](/cursos/index.html) | [Livros](/livros/index.html) | [Guias](/guias/index.html)",
+    "[Cursos](/cursos.html) | [Livros](/livros.html) | [Guias](/guias.html)",
 ]
 description = "Site do dev do desempenho"
 keywords = "blog,desenvolvedor,pessoal"
@@ -133,29 +135,29 @@ footercontent = "CTO da Aerosim & Criador de conteúdo"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
 weight = 1
-url = "sobre/index.html"
+url = "sobre.html"
 
 [[languages.pt-br.menu.main]]
 name = "Newsletter"
 weight = 2
-url = "newsletter/index.html"
+url = "newsletter.html"
 
 [[languages.pt-br.menu.main]]
 name = "Guias"
 weight = 3
-url = "guias/index.html"
+url = "guias.html"
 
 [[languages.pt-br.menu.main]]
 name = "Livros"
 weight = 4
-url = "livros/index.html"
+url = "livros.html"
 
 [[languages.pt-br.menu.main]]
 name = "Cursos"
 weight = 5
-url = "cursos/index.html"
+url = "cursos.html"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
 weight = 6
-url = "contato/index.html"
+url = "contato.html"
