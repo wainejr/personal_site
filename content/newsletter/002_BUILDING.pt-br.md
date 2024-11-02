@@ -2,7 +2,7 @@
 author = "Waine Oliveira Jr."
 title = "#002 - BUILDING"
 slug = "002_building"
-date = 2024-11-08
+date = 2024-01-08
 description = "#002 - BUILDING"
 tags = ["comunidade", "newsletter"]
 +++
@@ -24,7 +24,7 @@ A partir disso começou um debate no Discord sobre toda situação, envolvendo p
 
 Recomendo ler tudo e tirar suas próprias conclusões. Nas minhas mensagens fica bem claro minha opinião sobre o assunto.
 
-## Quem perde com isso, e quem manda no Linux
+## Quem perde com isso? Quem manda no Linux?
 
 Continuando o debate, surgiu a questão: *Linux perde com a saída desses contribuidores?* A partir daí o @kov começou a falar um pouco sobre o funcionamento e constante entrada e saída de mantenedores da base, e como ela tem sobrevivido ao longo dos anos assim.
 
@@ -42,6 +42,8 @@ Mesmo com entrada e saída sendo constante, não creio que essa seja como as out
 Ainda por cima tivemos uma aula de história do nosso querido ancião, @kov, sobre a entrada e adoção do Linux no Brasil.
 
 {{< figure src="/images/newsletter/002/20.png" >}}
+
+@kov tem que escrever um livro da história do Linux no Brasil.
 
 ## Notícias
 
