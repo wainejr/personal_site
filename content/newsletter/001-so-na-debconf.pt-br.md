@@ -2,7 +2,7 @@
 author = "Waine Oliveira Jr."
 title = "#001 - Só na DebConf | Medo de atualizar BIOS? | Paixões e C++"
 slug = "newsletter-da-comunidade-001"
-date = 2024-10-30
+date = 2024-11-01
 description = "#001 - Só na DebConf | Medo de atualizar BIOS? | Paixões e C++"
 tags = ["comunidade", "newsletter"]
 +++
