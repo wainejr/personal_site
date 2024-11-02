@@ -7,6 +7,8 @@ description = "#001 - Só na DebConf | Medo de atualizar BIOS? | Paixões e C++"
 tags = ["comunidade", "newsletter"]
 +++
 
+{{< youtube MPGp_Dj8MIo >}}
+
 **As atualizações e assuntos que rolaram nos últimos dias na [comunidade do desempenho](https://discord.gg/NNuzYsNPjV)**
 
 ## Só acontece na DebConf
@@ -51,7 +53,7 @@ Minha experiência com C++ não é das melhores, mas é inegável a importância
 
 Finalmente o @kov abriu sua PR pra deixar o famoso comando `diff` mais rápido (no projeto paralelo uutils, reimplementação em Rust), usando um algoritmo mais eficiente (que eu devo fazer um vídeo sobre).
 
-{{< figure src="/images/newsletter/001/001-5.png" >}}
+{{< figure src="/images/newsletter/001/001-5.png" link="https://github.com/uutils/diffutils/pull/103" >}}
 
 Uma honra ter pessoas fodas assim lá na comunidade do desempenho.
 
@@ -59,7 +61,7 @@ Uma honra ter pessoas fodas assim lá na comunidade do desempenho.
 
 O @Jadson mandou essa semana um artigo sobre RAM Disk com FPGA lá no Discord, vale conferir quem se interessa pelo mundo de lógica reprogramável
 
-{{< figure src="/images/newsletter/001/001-6.png" >}}
+{{< figure src="/images/newsletter/001/001-6.png" link="https://ssd-fpga-ramdisk-cjjt3sk.gamma.site/" >}}
 
 Juntar baixo nível com um design e site bonito desse é pra poucos. O artigo tá melhor que a documentação de muito software e API gigante por aí. Meus parabéns, Jadson!
 
@@ -82,12 +84,13 @@ Quem quiser saber como configurar, só dar um alô pra eles no Discord e pedir a
 
 - [zGPU volta com força](https://youtu.be/K1o8YjPY7Dk), fazendo a API da API da API da API do OpenCL pra Zig e apanhando de todo lado, começando o LBM em GPU
 
-{{< figure src="/images/newsletter/001/zgpu 5.png" link="https://youtu.be/K1o8YjPY7Dk" >}}
+{{< youtube K1o8YjPY7Dk >}}
+<!-- {{< figure src="/images/newsletter/001/zgpu 5.png" link="https://youtu.be/K1o8YjPY7Dk" >}} -->
 
 - [Meu setup de gravação no Linux](https://youtu.be/cwaNMdJtXbk) pra quem quer se aventurar pelo caminho de criação de conteúdo (quanto mais gente criando, melhor)
 
-
-{{< figure src="/images/newsletter/001/gravação em linux.png" link="https://youtu.be/cwaNMdJtXbk" >}}
+{{< youtube cwaNMdJtXbk >}}
+<!-- {{< figure src="/images/newsletter/001/gravação em linux.png" link="https://youtu.be/cwaNMdJtXbk" >}} -->
 
 ## Redes
 
