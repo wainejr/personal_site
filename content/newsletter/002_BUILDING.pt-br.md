@@ -2,7 +2,7 @@
 author = "Waine Oliveira Jr."
 title = "#002 - BUILDING"
 slug = "002_building"
-date = 2024-01-08
+date = 2024-11-08
 description = "#002 - BUILDING"
 tags = ["comunidade", "newsletter"]
 +++
