@@ -45,6 +45,20 @@ Ainda por cima tivemos uma aula de história do nosso querido ancião, @kov, sob
 
 @kov tem que escrever um livro da história do Linux no Brasil.
 
+## C++ proibido?
+
+Se tem uma coisa que dá pano pra manga é C++ na comundiade do desempenho. O @kov trouxe o assunto de volta com uma matéria da CISA (*Cybersecurity and Infrastructure Security Agency*) sobre más práticas em cybersegurança.
+E as coisas não parecem nada boas pra C/C++.
+
+{{< figure src="/images/newsletter/002/30.png" link="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" >}}
+
+Quem sabe não vem inclusive a proibição dessas linguagens pra sistemas críticos (amém?).
+Depois o Ítalo já veio com a solução: *breaking change*.
+
+{{< figure src="/images/newsletter/002/31.png" >}}
+
+O mundo seria outro se a gente pudesse fazer breaking change em ISA, C e C++. Sonho com esse dia (que nunca virá, claro).
+
 ## Notícias
 
 - {FORMULA 1}
